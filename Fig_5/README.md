@@ -1,4 +1,1 @@
-The simultaion codes for Fig_2 in
-
-X. Li, J. Zhang, Z. Wang, B. Ai and D. W. K. Ng, "Cell-Free Massive MIMO with Multi-Antenna Users over Weichselberger Rician Channels,"
- in IEEE Trans. Veh. Technol., 2022, to appear.
+The simultaion codes for Fig_5 in "X. Li, J. Zhang, Z. Wang, B. Ai and D. W. K. Ng, "Cell-Free Massive MIMO with Multi-Antenna Users over Weichselberger Rician Channels," in IEEE Trans. Veh. Technol., 2022, to appear."
