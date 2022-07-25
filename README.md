@@ -2,7 +2,7 @@
 
 This is a code package related to the following scientific article:
 
-X. Li, J. Zhang, Z. Wang, B. Ai and D. W. K. Ng, "[Cell-Free Massive MIMO with Multi-Antenna Users over Weichselberger Rician Channels](https://ieeexplore.ieee.org/document/9837438)," in *IEEE Trans. Veh. Technol.*, 2022, pp.1-6.
+X. Li, J. Zhang, Z. Wang, B. Ai and D. W. K. Ng, "[Cell-Free Massive MIMO with Multi-Antenna Users over Weichselberger Rician Channels](https://ieeexplore.ieee.org/document/9837438)," in *IEEE Trans. Veh. Technol.*, 2022, to appear.
 
 The package contains a simulation environment, based on Matlab, that reproduces some of the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
 
